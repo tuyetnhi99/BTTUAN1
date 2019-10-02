@@ -1,0 +1,12 @@
+E:\BTTHTuan1\MH_TINHTONG\MH_TINHTONG\MH_TINHTONG\bin\Debug\netstandard2.0\MH_TINHTONG.deps.json
+E:\BTTHTuan1\MH_TINHTONG\MH_TINHTONG\MH_TINHTONG\bin\Debug\netstandard2.0\MH_TINHTONG.dll
+E:\BTTHTuan1\MH_TINHTONG\MH_TINHTONG\MH_TINHTONG\bin\Debug\netstandard2.0\MH_TINHTONG.pdb
+E:\BTTHTuan1\MH_TINHTONG\MH_TINHTONG\MH_TINHTONG\obj\Debug\netstandard2.0\MH_TINHTONG.csprojAssemblyReference.cache
+E:\BTTHTuan1\MH_TINHTONG\MH_TINHTONG\MH_TINHTONG\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\BTTHTuan1\MH_TINHTONG\MH_TINHTONG\MH_TINHTONG\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\BTTHTuan1\MH_TINHTONG\MH_TINHTONG\MH_TINHTONG\obj\Debug\netstandard2.0\MH_TINHTONG.csproj.CoreCompileInputs.cache
+E:\BTTHTuan1\MH_TINHTONG\MH_TINHTONG\MH_TINHTONG\obj\Debug\netstandard2.0\MH_TINHTONG.AssemblyInfoInputs.cache
+E:\BTTHTuan1\MH_TINHTONG\MH_TINHTONG\MH_TINHTONG\obj\Debug\netstandard2.0\MH_TINHTONG.AssemblyInfo.cs
+E:\BTTHTuan1\MH_TINHTONG\MH_TINHTONG\MH_TINHTONG\obj\Debug\netstandard2.0\XamlC.stamp
+E:\BTTHTuan1\MH_TINHTONG\MH_TINHTONG\MH_TINHTONG\obj\Debug\netstandard2.0\MH_TINHTONG.dll
+E:\BTTHTuan1\MH_TINHTONG\MH_TINHTONG\MH_TINHTONG\obj\Debug\netstandard2.0\MH_TINHTONG.pdb

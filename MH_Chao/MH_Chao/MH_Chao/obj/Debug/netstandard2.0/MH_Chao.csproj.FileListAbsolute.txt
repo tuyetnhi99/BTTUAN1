@@ -1,0 +1,12 @@
+E:\BTTHTuan1\MH_Chao\MH_Chao\MH_Chao\obj\Debug\netstandard2.0\MH_Chao.csprojAssemblyReference.cache
+E:\BTTHTuan1\MH_Chao\MH_Chao\MH_Chao\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\BTTHTuan1\MH_Chao\MH_Chao\MH_Chao\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\BTTHTuan1\MH_Chao\MH_Chao\MH_Chao\obj\Debug\netstandard2.0\MH_Chao.csproj.CoreCompileInputs.cache
+E:\BTTHTuan1\MH_Chao\MH_Chao\MH_Chao\obj\Debug\netstandard2.0\MH_Chao.AssemblyInfoInputs.cache
+E:\BTTHTuan1\MH_Chao\MH_Chao\MH_Chao\obj\Debug\netstandard2.0\MH_Chao.AssemblyInfo.cs
+E:\BTTHTuan1\MH_Chao\MH_Chao\MH_Chao\obj\Debug\netstandard2.0\MH_Chao.dll
+E:\BTTHTuan1\MH_Chao\MH_Chao\MH_Chao\obj\Debug\netstandard2.0\MH_Chao.pdb
+E:\BTTHTuan1\MH_Chao\MH_Chao\MH_Chao\bin\Debug\netstandard2.0\MH_Chao.deps.json
+E:\BTTHTuan1\MH_Chao\MH_Chao\MH_Chao\bin\Debug\netstandard2.0\MH_Chao.dll
+E:\BTTHTuan1\MH_Chao\MH_Chao\MH_Chao\bin\Debug\netstandard2.0\MH_Chao.pdb
+E:\BTTHTuan1\MH_Chao\MH_Chao\MH_Chao\obj\Debug\netstandard2.0\XamlC.stamp

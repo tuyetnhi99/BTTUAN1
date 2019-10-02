@@ -1,0 +1,12 @@
+E:\BTTHTuan1\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.deps.json
+E:\BTTHTuan1\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.dll
+E:\BTTHTuan1\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.pdb
+E:\BTTHTuan1\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csprojAssemblyReference.cache
+E:\BTTHTuan1\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\BTTHTuan1\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\BTTHTuan1\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csproj.CoreCompileInputs.cache
+E:\BTTHTuan1\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfoInputs.cache
+E:\BTTHTuan1\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfo.cs
+E:\BTTHTuan1\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\XamlC.stamp
+E:\BTTHTuan1\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.dll
+E:\BTTHTuan1\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.pdb

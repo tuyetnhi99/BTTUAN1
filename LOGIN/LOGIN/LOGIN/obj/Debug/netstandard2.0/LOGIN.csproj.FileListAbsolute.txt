@@ -1,0 +1,12 @@
+E:\BTTHTuan1\LOGIN\LOGIN\LOGIN\bin\Debug\netstandard2.0\LOGIN.deps.json
+E:\BTTHTuan1\LOGIN\LOGIN\LOGIN\bin\Debug\netstandard2.0\LOGIN.dll
+E:\BTTHTuan1\LOGIN\LOGIN\LOGIN\bin\Debug\netstandard2.0\LOGIN.pdb
+E:\BTTHTuan1\LOGIN\LOGIN\LOGIN\obj\Debug\netstandard2.0\LOGIN.csprojAssemblyReference.cache
+E:\BTTHTuan1\LOGIN\LOGIN\LOGIN\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\BTTHTuan1\LOGIN\LOGIN\LOGIN\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\BTTHTuan1\LOGIN\LOGIN\LOGIN\obj\Debug\netstandard2.0\LOGIN.csproj.CoreCompileInputs.cache
+E:\BTTHTuan1\LOGIN\LOGIN\LOGIN\obj\Debug\netstandard2.0\LOGIN.AssemblyInfoInputs.cache
+E:\BTTHTuan1\LOGIN\LOGIN\LOGIN\obj\Debug\netstandard2.0\LOGIN.AssemblyInfo.cs
+E:\BTTHTuan1\LOGIN\LOGIN\LOGIN\obj\Debug\netstandard2.0\XamlC.stamp
+E:\BTTHTuan1\LOGIN\LOGIN\LOGIN\obj\Debug\netstandard2.0\LOGIN.dll
+E:\BTTHTuan1\LOGIN\LOGIN\LOGIN\obj\Debug\netstandard2.0\LOGIN.pdb

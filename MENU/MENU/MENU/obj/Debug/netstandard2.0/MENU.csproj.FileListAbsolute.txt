@@ -1,0 +1,11 @@
+E:\BTTHTuan1\MENU\MENU\MENU\bin\Debug\netstandard2.0\MENU.deps.json
+E:\BTTHTuan1\MENU\MENU\MENU\bin\Debug\netstandard2.0\MENU.dll
+E:\BTTHTuan1\MENU\MENU\MENU\bin\Debug\netstandard2.0\MENU.pdb
+E:\BTTHTuan1\MENU\MENU\MENU\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\BTTHTuan1\MENU\MENU\MENU\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\BTTHTuan1\MENU\MENU\MENU\obj\Debug\netstandard2.0\MENU.csproj.CoreCompileInputs.cache
+E:\BTTHTuan1\MENU\MENU\MENU\obj\Debug\netstandard2.0\MENU.AssemblyInfoInputs.cache
+E:\BTTHTuan1\MENU\MENU\MENU\obj\Debug\netstandard2.0\MENU.AssemblyInfo.cs
+E:\BTTHTuan1\MENU\MENU\MENU\obj\Debug\netstandard2.0\XamlC.stamp
+E:\BTTHTuan1\MENU\MENU\MENU\obj\Debug\netstandard2.0\MENU.dll
+E:\BTTHTuan1\MENU\MENU\MENU\obj\Debug\netstandard2.0\MENU.pdb
